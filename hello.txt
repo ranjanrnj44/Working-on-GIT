@@ -4,4 +4,5 @@ This is a 2nd change
 
 this is my 3rd line
 
-this is 1 final line
+
+this is replaced line of 4
